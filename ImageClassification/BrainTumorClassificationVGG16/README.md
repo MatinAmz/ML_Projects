@@ -4,12 +4,3 @@ Transfer learning with VGG16 to classify brain MRI images into tumor vs. non-tum
 
 ## Path
 `ImageClassification/BrainTumorClassificationVGG16/`
-
-## Project Layout
-BrainTumorClassificationVGG16/
-├─ notebooks/
-│ └─ BrainTumorClassificationVGG.ipynb
-├─ src/
-├─ data/
-│ └─ raw/ # put dataset here (ignored by Git)
-└─ models/ # saved weights/checkpoints (ignored by Git)
